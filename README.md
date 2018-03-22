@@ -1,8 +1,8 @@
 # Arduino Threaded Environment for MIDI Controller
 
-Arduino does not support "REAL" parallel tasks (aka Threads), but we can make use of this Library to improve our code, and easily schedule tasks with fixed (or variable) time between runs.
+This Library aims to help build a threaded environment to manage multiple tasks for an Arduino microprocessor. We utilize timer interrupts to keep small tasks running while focusing on the main funtionality. 
 
-This Library helps to maintain organized and to facilitate the use of multiple tasks. We can use Timers Interrupts, and make it really powerfull, running "pseudo-background" tasks under the rug.
+Used to upload an Arduino sketch to an Arduino/Multiplexer to read potentiometers on a MIDI controller.
 
 
 
