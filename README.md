@@ -1,5 +1,7 @@
 # Arduino Threaded Environment for MIDI Controller
 
+![Optional Text](https://github.com/MyrmoA/Thread/blob/master/finalproduct.jpg)
+
 This Library aims to help build a threaded environment to manage multiple tasks for an Arduino microprocessor. We utilize timer interrupts to keep small tasks running while focusing on the main funtionality. 
 
 Used to upload an Arduino sketch to an Arduino/Multiplexer to read potentiometers on a MIDI controller.
