@@ -1,6 +1,6 @@
 # Arduino Threaded Environment for MIDI Controller
 
-![MIDI Controller](/MyrmoA/Thread/blob/master/finalproduct.jpg)
+![MIDI Controller](../Thread/blob/master/finalproduct.jpg)
 
 This Library was built to handle a threaded environment that can manage multiple tasks for an Arduino microprocessor. It utilizes timer interrupts to keep small tasks running while focusing on the main funtionality. 
 
